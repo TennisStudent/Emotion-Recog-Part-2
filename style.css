@@ -1,0 +1,31 @@
+body
+{
+    background-color: rgb(135, 248, 250);
+}
+.heading
+{
+    color:lawngreen;
+    background-color:lightcyan;
+    width: 50%;
+    font-family: Georgia;
+    font-size: 16px;
+    border-color:blue;
+}
+.name_of_people
+{
+    color:darkslateblue;
+}
+#webcam, #result
+{
+    border: 3px dashed aliceblue;
+    width: 350px;
+    height: 300px;
+}
+#square_style:hover 
+{
+    width: 150px;
+    height: 50px;
+    background-color:silver;
+    padding-top: 15px;
+    border-radius: 10px;
+}
